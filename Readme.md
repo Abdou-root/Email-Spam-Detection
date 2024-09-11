@@ -1,6 +1,6 @@
 # Email Spam Detection
 
-This project is a spam detection system that uses Deep Learning techniques and a Long Short-Term Memory (LSTM) model for binary classification of emails as spam or not spam. The model is trained on a dataset of email messages and is designed to help identify unwanted emails.
+This project is a spam detection system that uses NLP techniques and a Long Short-Term Memory (LSTM) model for binary classification of emails as spam or not spam. The model is trained on a dataset of email messages and is designed to help identify unwanted emails.
 
 ## Project Overview
 
